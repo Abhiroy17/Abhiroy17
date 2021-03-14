@@ -1,4 +1,4 @@
-- 👋 ** Hi, I’m Abhijit Roy**
+- 👋 **Hi, I’m Abhijit Roy**
 - 👀 I’m interested in fullstack web development,Data Structures and Algorithms,Java
 - 🌱 I’m currently learning Angular
 - 💞️ 
