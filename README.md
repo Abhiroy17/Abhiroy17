@@ -1,7 +1,8 @@
 - 👋 **Hi, I’m Abhijit Roy**
 - 👀 I’m interested in fullstack web development,Data Structures and Algorithms,Java
-- 🌱 I’m currently learning Angular
-- 💞️ 
+-     
+- 🌱 I’m currently learning Typescript,Angular
+- 💞️ HTML 5,CSS 3,Typescript
 - 📫 reach me ... abhiroycs17@gmail.com
 
 <!---
