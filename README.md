@@ -1,8 +1,8 @@
 - 👋 **Hi, I’m Abhijit Roy**
-- 👀 I’m interested in fullstack web development,Data Structures and Algorithms,Java
+- 👀 I’m interested in fullstack web development,Data Structures and Algorithms,JavaScript,Core Java
 -     
-- 🌱 I’m currently learning Polymer.js
-- 💞️ HTML 5,CSS 3,JavaScript,SpringBoot
+- 🌱 JavaScript Developer
+- 💞️ HTML 5,CSS 3,JavaScript
 - 📫 reach me ... abhiroycs17@gmail.com
 
 <!---
