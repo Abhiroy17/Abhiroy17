@@ -1,9 +1,8 @@
 - 👋 **Hi, I’m Abhijit Roy**
-- 👀 I’m interested in fullstack web development,Data Structures and Algorithms,JavaScript,Core Java
--     
-- 🌱 JavaScript Developer
+- 👀 I’m interested in fullstack web development,Data Structures and Algorithms,JavaScript
+-  I have an experience of 2.6+ years working as Frontend Engineer in EdgeVerve Systems(Infosys Finacle R&d)   
+- 🌱 React Developer
 - 💞️ HTML 5,CSS 3,JavaScript
--  JS Framework : React.js, Polymer.js
 - 📫 reach me ... abhiroycs17@gmail.com
 
 <!---
