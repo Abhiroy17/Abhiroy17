@@ -1,5 +1,5 @@
 - 👋 **Hi, I’m Abhijit Roy**
--  I have an experience of 2.8+ years working as Frontend Engineer(React) in EdgeVerve Systems(Infosys Finacle R&d)
+-  I have an experience of 2.8+ years working as Software Engineer(Frontend focussed React & loopback 3]/Node.js) in Edgeverve Systems(Infosys Finacle R&d)
 -  Leetcode: https://leetcode.com/abhi17r/
 - 🌱 React Developer
 - 💞️ HTML 5,CSS 3,JavaScript
