@@ -3,7 +3,7 @@
 🌱 **React Developer** with a passion for creating intuitive and dynamic user interfaces. I also dabble in backend technologies like Node.js.
 
 💼 **Experience:**  
-- **Software Engineer** (3+ years) at **Edgeverve Systems (Finacle R&D)**
+- **Software Engineer** (4.5+ years) at **Deloitte USI, previously at Edgeverve Systems (Finacle R&D)**
 - Focused on **Frontend Development** with **React (UI)**, along with experience in **Node.js/Loopback 3** and **MongoDB**.
 
 ## 🛠️ Skills
